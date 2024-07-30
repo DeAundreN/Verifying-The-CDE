@@ -1,4 +1,4 @@
-<h1>Verifying The CDE Scope</a> <a </a></h1>
+<h1>Verifying The Credit Card Data Environment Scope</a> <a </a></h1>
 Here's how I verified the CDE scope:
 
 I had initiated communication with stakeholders such as Software Developers, System Administrators, and Accounting. I'd requested essential documents like System Design Documents (SDDs), Data Flow Diagrams (DFDs), and Entity-Relationship Diagrams (ERDs) to understand data flow within the CDE. Additionally, I inquired about existing security controls and any relevant industry regulations or security standards impacting the CDE, like PCI DSS.
